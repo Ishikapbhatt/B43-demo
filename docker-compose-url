@@ -1,0 +1,1 @@
+curl -L "https://github.com/docker/compose/releses/download/1.26.2/docker-compose-$(u-name -s)-$(uname -m)" -o /usr/local/bin/docker-compose
